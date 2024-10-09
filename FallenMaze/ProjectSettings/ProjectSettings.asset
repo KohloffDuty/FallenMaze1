@@ -659,11 +659,19 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
+<<<<<<< Updated upstream
   cloudProjectId: 5a388237-9062-4213-a096-f86d222bae04
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: FallenMaze 2024-10-09_11-52-58
   organizationId: babygirldunk
+=======
+  cloudProjectId: a56c4d3e-35f7-4c36-bee2-79ecad801628
+  framebufferDepthMemorylessMode: 0
+  qualitySettingsNames: []
+  projectName: FallenMaze 2024-10-08_22-04-10
+  organizationId: jeniferjames1
+>>>>>>> Stashed changes
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
